@@ -1,4 +1,3 @@
 HelloWorld
 ==========
-Recommended file. Not sure why I need it.
-This project contains my personal coding projects.
+This repo contains all of my code for the Windows Store tutorials for JavaScript and HTML projects.
